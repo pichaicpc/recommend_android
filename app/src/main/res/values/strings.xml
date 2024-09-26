@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RecommendSystem</string>
+
+    <!-- API Endpoints -->
+    <string name="root_url">http://192.168.1.111:5000/</string>
+    <string name="product_url">api/recommend/</string>
+    <string name="product_image_url">api/product/image/</string>
+
+</resources>
